@@ -77,7 +77,7 @@ export default function Ads() {
                     </div>
                 </form>
             </div>
-
+hello
             <div className='text-center lg:px-32 md:px-32 sm:px-3 py-20'>
                 <h2 className='lg:text-5xl font-semibold text-3xl '>
                     Crafted for your inner 'Noise'
